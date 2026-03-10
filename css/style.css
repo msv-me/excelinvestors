@@ -361,6 +361,12 @@ img { max-width: 100%; display: block; }
 .edu-divider {
   color: var(--border-light);
 }
+.team-education-detail {
+  font-size: 0.82rem;
+  color: var(--text-muted);
+  margin-bottom: 8px;
+  line-height: 1.6;
+}
 .section-subtitle-wide {
   font-size: 1.05rem;
   color: var(--text-secondary);
